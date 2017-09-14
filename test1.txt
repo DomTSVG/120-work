@@ -5,3 +5,5 @@ This is my first text document for one of Dr. Musick's Media Arts courses.
 
 I added a new line to this file in my text editor!!!
 I have absolutely zero idea what to add here. So... Yeah.
+
+This is a new change, as dictated by the assignment.
