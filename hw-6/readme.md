@@ -1,31 +1,35 @@
 Dominic Rosatti 51
 
-# HW - 5
+# HW - 6
 
 ## Summary
 
-Ah, animation. One of the most wonderful forms of expression. Coding is a building block for tween animation and honestly, it's neat to code simple animation like this.
+I hate math, really. I know it's a necessity to life, and everything we do, but that doesn't mean I have to like it. That aside though... This project was really fun. Seriously, I never knew I'd have such a great time making a stupid bunch of dots. I had a blast.
 
 ## Steps
 
-I took a long while deciding on a way to do this project, and, in tune with my previous project's theme of "Pokemon" I went with a spinning Pokeball with a star/shine background. It's simple, again, but I'd rather it be simple. After setting up some variables, I went to constructing the Pokeball, and then the stars, made from triangles. I set up the spinning animation afterwards, and planned to include a color shifting effect. However, I could not get the shifting to work as I wanted. It's unfortunate but true.
+Obviously first I needed to set up my variables and canvas. Since the color of the dots was going to be important, I wanted to make sure that the background was white. Then, each Variable's name was set up for use later.
+
+Next, obviously, I went about sandboxing and setting up the generators for the values of the dots. Because I absolutely had to adhere to the constraints given in the directions, the need for the absolute value function is nearly nonexistant, but the constrain code string was necessary for transparency.
+
+Lastly, of course, I coded the drawing of the dots, and viola.
 
 ## Learning that Warrents Discussion
 
-I want to learn more about properly combining if/then statements in order to make the color shifting work. I played with it for hours but I could not get it set up correctly. I want to learn more about animation in other forms as well.
+I still need to figure out how a few of the things we discussed in the class today work. Things like mapping, ceilings and floors.
 
 ## Issues
 
-As I told you before, I had issues setting up the color shift using if/then statements. I had to give up due to time constraints.
+I had no issues during the actual coding this week, surprisingly.
 
  ## Work Screenshot
 
- Raw work. Raw like the meat in the freezer.
+ Raw, raw, raw-ah-ah.
  ![The raw file. Oh yeah.](raw.jpg)
 
 ## Conclusions
 
-This project was basic and fun, though I wish I'd accomplished more. Oh well, a lesson learned, and knowledge gained.
+This was fun, despite my hate for math. I'm very happy with what I've done here. Not much more to say, enjoy my colorful dots.
 
  Goodnight everybody!
 
