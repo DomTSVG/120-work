@@ -35,4 +35,4 @@ This was fun, despite my hate for math. I'm very happy with what I've done here.
 
  ~*Dominic, AKA DomTSVG*
 
- ![DomTSVG](icon text transparent smol.png)
+ ![DomTSVG](icontexttransparentsmol.png)

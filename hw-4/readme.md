@@ -37,4 +37,4 @@ This... This is the worst way I've ever drawn anything, ever. I'm not kidding. T
 
  ~*Dominic, AKA DomTSVG*
 
- ![DomTSVG](icon text transparent smol.png)
+ ![DomTSVG](icontexttransparentsmol.png)

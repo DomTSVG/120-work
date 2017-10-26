@@ -33,4 +33,4 @@ It's really funny to me, really. I spend a lot of time worrying about understand
 
  ~*Dominic, AKA DomTSVG*
 
- ![DomTSVG](icon text transparent smol.png)
+ ![DomTSVG](icontexttransparentsmol.png)

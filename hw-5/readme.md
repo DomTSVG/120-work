@@ -31,4 +31,4 @@ This project was basic and fun, though I wish I'd accomplished more. Oh well, a 
 
  ~*Dominic, AKA DomTSVG*
 
- ![DomTSVG](icon text transparent smol.png)
+ ![DomTSVG](icontexttransparentsmol.png)
