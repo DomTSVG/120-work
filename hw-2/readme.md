@@ -32,7 +32,7 @@ While I didn't particularly *assist* any classmates this homework cycle with tec
  ## Work Screenshot
 
  Here you are, the raw work, in screenchot.
- ![The raw, unadulterated text. S-scandalous!](readme in-progress.png)
+ ![The raw, unadulterated text. S-scandalous!](readmein-progress.png)
 
  How scandalous!
 
@@ -46,4 +46,4 @@ While I didn't particularly *assist* any classmates this homework cycle with tec
 
  ~*Dominic, AKA DomTSVG*
 
- ![DomTSVG](icon text transparent smol.png)
+ ![DomTSVG](icontexttransparentsmol.png)
