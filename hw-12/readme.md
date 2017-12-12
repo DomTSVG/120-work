@@ -17,7 +17,7 @@ I then took that and made sure all my code to create bubbles in a specific timef
 In building my sketch, I wanted a way to "reset" the game, or rather, the sketch, and found a great video on doing so. Here it is:
 https://www.youtube.com/watch?v=lm8Y8TD4CTM
 
-Once I was done with that, I created variables for keeping track of both on-screen bubbles and score, and keeping track of each seperately. This meant making sure my code that reset the sketch didn't alter the Highscore variable.
+Once I was done with that, I created variables for keeping track of both on-screen bubbles and score, and keeping track of each seperately. This meant making sure my code that reset the sketch didn't alter the Highscore variable. During this phase I also made sure that the 25 bubbles in the index are taken care of properly, and each deleted after the total number of these objects in the index reaches a certain threshold.
 
 Then, I simply wrote out the instructions, and made sure the code was neat and tidy. Boom, done.
 
@@ -27,7 +27,7 @@ Not much, really. I think there should be more discussed on the idea of resettin
 
 ## Issues
 
-One bug that I still cannot fix is one that makes my bubbles spawn at faster intervals after a reset, incrementally. If anyone knows why, and how I can fix it, shoot me a comment, message, or if that's not your style, hit me up on my social media somewhere. You can find me by the username I present here all the time, DomTSVG. For example, my Twitter account is //@DomTSVG//.
+One bug that I still cannot fix is one that makes my bubbles spawn at faster intervals after a reset, incrementally. This will eventually cause the indexing to break, as the code creates more than the splice code deletes, and this will happen no matter what threhold you implement. I'm unsure as to what part of my code causes this constant increase in bubble number. If anyone knows why, and how I can fix it, shoot me a comment, message, or if that's not your style, hit me up on my social media somewhere. You can find me by the username I present here all the time, DomTSVG. For example, my Twitter account is //@DomTSVG//.
 
  ## Work Screenshot
 
